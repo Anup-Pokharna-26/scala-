@@ -1,0 +1,1 @@
+/*Write a Scala program for the multiplication of two given matrices. Find determinant of resultant matrix.*/
